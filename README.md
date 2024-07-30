@@ -32,6 +32,9 @@ sudo chown -R www-data:www-data /var/www/html/lara-pmb/storage
 sudo chown -R www-data:www-data /var/www/html/lara-pmb/bootstrap/cache
 sudo chmod -R 775 /var/www/html/lara-pmb/storage
 sudo chmod -R 775 /var/www/html/lara-pmb/bootstrap/cache
+
+# ubah direktori database ke www-data agar bisa di write
+chown www-data:www-data /var/www/html/lara-pmb/database
 sudo chown www-data:www-data /var/www/html/lara-pmb/database/database.sqlite
 sudo chmod 664 /var/www/html/lara-pmb/database/database.sqlite
 
