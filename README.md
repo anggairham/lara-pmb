@@ -19,8 +19,8 @@ php artisan serve
 ### Production
 ```bash
 git clone
-cp .env.example .env
 composer install --optimize-autoloader --no-dev
+cp .env.example .env
 php artisan key:generate
 php artisan migrate
 php artisan db:seed
