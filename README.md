@@ -1,5 +1,5 @@
 # PMB
-* [DEMO](lara-pmb.artefakcoding.my.id).
+* [DEMO](https://lara-pmb.artefakcoding.my.id).
 * [API Documentation](https://lara-pmb.artefakcoding.my.id/api/docs).
 * [Source Code](https://github.com/anggairham/lara-pmb).
 * [Documentation](https://github.com/anggairham/lara-pmb/blob/main/README.md).
